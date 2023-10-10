@@ -1,4 +1,4 @@
-user=float(input("Enter value:"))
+user=float(input("Enter a value:"))
 
 if user>1.0 and user<=2.0:
     print("Microearthquakes not felt or rarely felt")
